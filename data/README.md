@@ -1,0 +1,2 @@
+The data used is 'icml_face_data.csv' with over 31,000 grayscale images with corresponding labels.
+It can be found <a href="https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data">here</a>.
